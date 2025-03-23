@@ -8,7 +8,7 @@ I needed a basic client for this and everything I found online was unsuitable.  
 
 ## Typical Implementation Details
 
-There are several good and bad ways to implement this, and lots of opinions about them.  This simple examples receives a token and keeps it in memory until the SPA shuts down.
+There are several good and bad ways to implement this, and lots of opinions about them.  This simple example receives a token and keeps it in memory until the SPA shuts down.
 
 1. Front end determines authentication is needed and puts up a login page
 2. Server validates the credential & sends back a Bearer token
