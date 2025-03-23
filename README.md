@@ -17,7 +17,7 @@ There are several good and bad ways to implement this, and lots of opinions abou
 ## Features
 
 #### UI
-[1]: /Selection_010.png "screenshot"
+![Example Image](/Selection_010.png)
 
 #### Including the token in subsequent API calls is as simple as adding a few lines to the Service
 ```
